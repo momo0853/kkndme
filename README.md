@@ -20,6 +20,7 @@
   - 2019年：975次
   - 2020年：461次
   - 2021年：386次
+- 是否存在删贴行为，从楼层的不连续性可以看出**存在这样的情况**，[所有回帖用户以及回帖时间、楼层信息](USERS.md)
 
 # HTML版本
 [[经验交流]2010年的房地产调控，我们收获了什么？写在房价暴涨前](https://htmlpreview.github.io/?https://github.com/momo0853/kkndme/blob/main/index.html)
