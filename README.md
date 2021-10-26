@@ -35,8 +35,9 @@ Code -> Download ZIP
 ![Download ZIP](pic/zip.png)
 
 # HTML版本
+[index.html](https://htmlpreview.github.io/?https://github.com/momo0853/kkndme/blob/main/index.html)
+
 **直接点击GitHub上的index.html是无法加载的，所以我使用htmlpreview.github.io来加载GitHub的这个文件，有可能出现无法打开或者打开过慢的情况。**
-[[经验交流]2010年的房地产调控，我们收获了什么？写在房价暴涨前](https://htmlpreview.github.io/?https://github.com/momo0853/kkndme/blob/main/index.html)
 
 # 1 2010-08-10 19:03([post-house-252774-1.shtml](https://bbs.tianya.cn/m/post-house-252774-1.shtml))
 2010年的房地产调控，让很多人看到了希望：让房价降得再猛烈些吧。还有人更是幸灾乐祸似的呼喊：让房地产赶紧崩盘吧。让没房子的好好看看有房子的笑话，是人生的一大快事。
