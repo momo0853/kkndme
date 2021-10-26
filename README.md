@@ -22,7 +22,20 @@
   - 2021年：386次
 - 是否存在删贴行为，从楼层的不连续性可以看出**存在这样的情况**，[所有回帖用户以及回帖时间、楼层信息](users.md)
 
+# 建议离线阅读(下载)
+下载之后直接用浏览器打开index.html或者kkndme.pdf体验会好一些
+
+- Git方式
+```
+$ git clone https://github.com/momo0853/kkndme.git
+```
+
+- ZIP方式
+Code -> Download ZIP
+![Download ZIP](pic/zip.png)
+
 # HTML版本
+**直接点击GitHub上的index.html是无法加载的，所以我使用https://htmlpreview.github.io来加载GitHub的这个文件，有可能出现无法打开或者打开过慢的情况。**
 [[经验交流]2010年的房地产调控，我们收获了什么？写在房价暴涨前](https://htmlpreview.github.io/?https://github.com/momo0853/kkndme/blob/main/index.html)
 
 # 1 2010-08-10 19:03([post-house-252774-1.shtml](https://bbs.tianya.cn/m/post-house-252774-1.shtml))
