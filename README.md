@@ -35,7 +35,7 @@ Code -> Download ZIP
 ![Download ZIP](pic/zip.png)
 
 # HTML版本
-**直接点击GitHub上的index.html是无法加载的，所以我使用https://htmlpreview.github.io来加载GitHub的这个文件，有可能出现无法打开或者打开过慢的情况。**
+**直接点击GitHub上的index.html是无法加载的，所以我使用htmlpreview.github.io来加载GitHub的这个文件，有可能出现无法打开或者打开过慢的情况。**
 [[经验交流]2010年的房地产调控，我们收获了什么？写在房价暴涨前](https://htmlpreview.github.io/?https://github.com/momo0853/kkndme/blob/main/index.html)
 
 # 1 2010-08-10 19:03([post-house-252774-1.shtml](https://bbs.tianya.cn/m/post-house-252774-1.shtml))
