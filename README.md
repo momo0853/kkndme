@@ -1,5 +1,5 @@
 # 说明
-**由于Github的限制(大约51万字)，Markdown版本会渲染不完整(总共85万字)，建议直接阅读HTML版本，HTML的排版和天涯是一样的，或者PDF文档**
+**由于Github的限制(大约51万字)，Markdown版本会渲染不完整(总共85万字)，建议直接阅读[HTML](https://htmlpreview.github.io/?https://github.com/momo0853/kkndme/blob/main/index.html)版本，[HTML](https://htmlpreview.github.io/?https://github.com/momo0853/kkndme/blob/main/index.html)的排版和天涯是一样的，或者[阅读PDF](https://github.com/momo0853/kkndme/blob/main/kkndme.pdf)文档，也可以直接[下载PDF](https://github.com/momo0853/kkndme/raw/main/kkndme.pdf)**
 
 - 整理：StoneLiu
 - 天涯：https://bbs.tianya.cn/m/post-house-252774-1.shtml
