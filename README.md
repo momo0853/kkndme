@@ -2,7 +2,8 @@
 **由于Github的限制(大约51万字)，Markdown版本会渲染不完整(总共85万字)，建议直接阅读[HTML](https://htmlpreview.github.io/?https://github.com/momo0853/kkndme/blob/main/index.html)版本，[HTML](https://htmlpreview.github.io/?https://github.com/momo0853/kkndme/blob/main/index.html)的排版和天涯是一样的，或者[阅读PDF](https://github.com/momo0853/kkndme/blob/main/kkndme.pdf)文档，也可以直接[下载PDF](https://github.com/momo0853/kkndme/raw/main/kkndme.pdf)**
 
 - 整理：StoneLiu
-- 天涯：https://bbs.tianya.cn/m/post-house-252774-1.shtml
+- 天涯(手机版)：https://bbs.tianya.cn/m/post-house-252774-1.shtml
+- 天涯(电脑版)：https://bbs.tianya.cn/post-house-252774-1.shtml
 - GitHub：https://github.com/momo0853/kkndme
 - 字数：750617
 - 起止：2010-08-10 19:03 / 2011-07-10 09:21
