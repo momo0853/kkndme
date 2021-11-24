@@ -1,4 +1,7 @@
 # 说明
+
+**声明: 本人仅整理帖子内容，帖子中的内容、观点仅代表原作者、与本人无关。**
+
 **由于Github的限制(大约51万字)，Markdown版本会渲染不完整(总共97万字)，建议直接阅读[HTML](https://htmlpreview.github.io/?https://github.com/momo0853/kkndme/blob/main/index.html)版本，[HTML](https://htmlpreview.github.io/?https://github.com/momo0853/kkndme/blob/main/index.html)的排版和天涯是一样的，或者[阅读PDF](https://github.com/momo0853/kkndme/blob/main/kkndme.pdf)文档，也可以直接[下载PDF](https://github.com/momo0853/kkndme/raw/main/kkndme.pdf)**
 
 - 整理：StoneLiu
