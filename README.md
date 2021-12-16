@@ -2,7 +2,7 @@
 
 **声明: 本人仅整理帖子内容，帖子中的内容、观点仅代表原作者、与本人无关。**
 
-**由于Github的限制(大约51万字)，Markdown版本会渲染不完整(总共97万字)，建议直接阅读[HTML](https://htmlpreview.github.io/?https://github.com/momo0853/kkndme/blob/main/index.html)版本，[HTML](https://htmlpreview.github.io/?https://github.com/momo0853/kkndme/blob/main/index.html)的排版和天涯是一样的，或者[阅读PDF](https://github.com/momo0853/kkndme/blob/main/kkndme.pdf)文档，也可以直接[下载PDF](https://github.com/momo0853/kkndme/raw/main/kkndme.pdf)**
+**由于Github的限制(大约51万字)，Markdown版本会渲染不完整(总共97万字)，建议直接阅读[HTML](https://htmlpreview.github.io/?https://github.com/momo0853/kkndme/blob/main/index.html)版本，[HTML](https://htmlpreview.github.io/?https://github.com/momo0853/kkndme/blob/main/index.html)的排版和天涯是一样的，或者[在线阅读PDF](https://github.com/momo0853/kkndme/blob/main/kkndme.pdf)文档，也可以直接[下载PDF](https://github.com/momo0853/kkndme/raw/main/kkndme.pdf)**
 
 - 整理：StoneLiu
 - 天涯(手机版)：https://bbs.tianya.cn/m/post-house-252774-1.shtml
@@ -13,7 +13,7 @@
 - 起止：2010-08-10 19:03 / 2011-07-10 09:21，共1215次回复
   - 2010年作者发表和回复共1033次
   - 2011年作者发表和回复共182次
-- 帖子是否被封禁过，这个情况我没有办法知道，但是我可以统计出历年来帖子的回复情况(网页爬日期是2021-08-17)，[所有回帖用户以及回帖时间](users.md)，[点击下载回帖用户信息-users.pdf](https://github.com/momo0853/kkndme/raw/main/users.pdf)
+- 帖子是否被封禁过，这个情况我没有办法知道，但是我可以统计出历年来帖子的回复情况(网页爬日期是2021-08-17)，[所有回帖用户以及回帖时间](users.md)，[下载回帖用户信息](https://github.com/momo0853/kkndme/raw/main/users.pdf)
   - 2010年：6464次
   - 2011年：1936次
   - 2012年：109次
@@ -26,7 +26,8 @@
   - 2019年：975次
   - 2020年：461次
   - 2021年：386次
-- 是否存在删贴行为，从楼层的不连续性可以看出**存在这样的情况**，[所有回帖用户以及回帖时间、楼层信息](users.md)，[点击下载回帖用户信息-users.pdf](https://github.com/momo0853/kkndme/raw/main/users.pdf)
+- 是否存在删贴行为，从楼层的不连续性可以看出**存在这样的情况**，[所有回帖用户以及回帖时间、楼层信息](users.md)，[下载回帖用户信息](https://github.com/momo0853/kkndme/raw/main/users.pdf)
+- <font color=red>**不管是Markdown方式还是PDF方式标题都是可以点击打开对应的网页查看详细信息的。本人仅仅是汇总，不对任何内容进行修改。**</font>
 
 # 离线阅读(下载)
 下载之后直接用浏览器打开index.html或者kkndme.pdf体验会好一些
