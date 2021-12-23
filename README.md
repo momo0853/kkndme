@@ -27,6 +27,7 @@
   - 2019年：975次
   - 2020年：461次
   - 2021年：386次
+  ![All Line Chart](pic/alllinechart.png)
 - 是否存在删贴行为，从楼层的不连续性可以看出**存在这样的情况**，[所有回帖用户以及回帖时间、楼层信息](users.md)，[下载回帖用户信息](https://github.com/momo0853/kkndme/raw/main/users.pdf)
 - **不管是Markdown方式还是PDF方式标题都是可以点击打开对应的网页查看原始详细信息的。本人仅仅是汇总，不对任何内容进行修改。**
 
