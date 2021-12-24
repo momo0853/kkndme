@@ -8,7 +8,7 @@
 - 天涯(手机版)：https://bbs.tianya.cn/m/post-house-252774-1.shtml
 - 天涯(电脑版)：https://bbs.tianya.cn/post-house-252774-1.shtml
 - GitHub：https://github.com/momo0853/kkndme
-- 字数：973622
+- 字数：523521
 - 更新：2021-12-23
 - 起止：2010-08-10 19:03 / 2011-07-10 09:21，共1018次回复，其中有84次回复是从其他回答中恢复的
   - 2010年作者发表和回复共871次
