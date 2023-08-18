@@ -26,11 +26,11 @@
 下载之后直接用浏览器打开index.html或者kkndme.pdf体验会好一些
 
 - Git方式
-```
-$ git clone https://github.com/momo0853/kkndme.git
-$ cd kkndme
-$ open index.html
-```
+    ```
+    $ git clone https://github.com/momo0853/kkndme.git
+    $ cd kkndme
+    $ open index.html
+    ```
 
 - ZIP方式
 Code -> Download ZIP
