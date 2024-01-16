@@ -36,3 +36,6 @@
 Code -> Download ZIP
 ![Download ZIP](pic/zip.png)
 
+# 完整的原始帖子
+鉴于有些朋友需要完整的阅读整个帖子，我把原始的HTML文件上传上来了，下载之后进入shtml文件夹，用浏览器打开`post-house-252774-1.shtml`即可完整的阅读。
+
